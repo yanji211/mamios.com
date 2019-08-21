@@ -1,0 +1,2 @@
+# mamios.com
+DDNS
